@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyHttp.Domain", "TinyHttp.Domain\TinyHttp.Domain.csproj", "{8540E41A-C95A-4D7B-8425-0433D7F0B4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyHttp.Gui", "TinyHttp.Gui\TinyHttp.Gui.csproj", "{816BB274-1E4D-48B7-952A-2B9CBE47F3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyHttp.Application", "TinyHttp.Application\TinyHttp.Application.csproj", "{AADB76D9-C677-4A04-9DCF-3FF5213EAB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8540E41A-C95A-4D7B-8425-0433D7F0B4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8540E41A-C95A-4D7B-8425-0433D7F0B4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8540E41A-C95A-4D7B-8425-0433D7F0B4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8540E41A-C95A-4D7B-8425-0433D7F0B4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816BB274-1E4D-48B7-952A-2B9CBE47F3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816BB274-1E4D-48B7-952A-2B9CBE47F3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816BB274-1E4D-48B7-952A-2B9CBE47F3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816BB274-1E4D-48B7-952A-2B9CBE47F3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADB76D9-C677-4A04-9DCF-3FF5213EAB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADB76D9-C677-4A04-9DCF-3FF5213EAB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADB76D9-C677-4A04-9DCF-3FF5213EAB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADB76D9-C677-4A04-9DCF-3FF5213EAB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
